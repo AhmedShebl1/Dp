@@ -1,0 +1,12 @@
+{
+  "name": "dummy-npm-package",
+  "version": "1.0.0",
+  "description": "A dummy npm package for learning how to publish to npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dummy", "npm", "learning"],
+  "author": "Your Name",
+  "license": "ISC"
+}
